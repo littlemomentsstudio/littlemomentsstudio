@@ -85,7 +85,7 @@ Simple landing pages to introduce your brand, showcase products and share contac
 | 🌸 Basic Wish | A simple one-page greeting website | PKR 300 |
 | 🎀 Personalized | More sections, custom colors and your content | PKR 500 |
 | ✨ Interactive Surprise | Simple JavaScript interactions and basic animations | PKR 650 |
-| 🛍️ Business Landing Page | Business introduction, product showcase and contact buttons | PKR 800 |
+| 🛍️ Business Landing Page | Business introduction, product showcase and contact buttons | PKR 800–1,200 (Max PKR 1,500) |
 
 <sub>♡ Final pricing depends on the design, number of sections and requested features. Custom business pages may cost up to PKR 1,500. Advanced features, custom domains and additional requirements are quoted separately.</sub>
 
