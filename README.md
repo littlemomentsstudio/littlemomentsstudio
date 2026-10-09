@@ -1,240 +1,191 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,EC8AB5,DDA0DD&height=240&section=header&text=Little%20Moments%20Studio&fontSize=38&fontColor=70264D&fontAlignY=38&desc=Small%20Websites%20%7C%20Big%20Feelings&descSize=17&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC0CB,50:FF9EBB,100:F8BBD0&height=180&section=header&text=Little%20Moments%20Studio&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=Small%20websites%20for%20your%20biggest%20moments&descSize=15&descAlignY=70&animation=fadeIn" width="100%" />
 
 <br/>
 
-<h3>🎀 Turning Special Moments Into Digital Memories 🎀</h3>
+### ♡ Turning your special moments into something memorable ♡
 
-<p>
-  Cute little websites for birthdays, anniversaries, friendships
-  and all the moments worth celebrating. 💗
-</p>
+Personalized • Playful • Made with love
 
-<br/>
-
-<img src="https://img.shields.io/badge/Handcrafted%20with-Love-DB7093?style=for-the-badge&labelColor=FCE4EC" />
-<img src="https://img.shields.io/badge/Design-Creativity-C084FC?style=for-the-badge&labelColor=F3E8FF" />
-<img src="https://img.shields.io/badge/Mobile-Friendly-YES-F472B6?style=for-the-badge&labelColor=FCE7F3" />
-
-<br/><br/>
-
-<a href="#about-us">
-  <img src="https://img.shields.io/badge/ABOUT%20US-F8BBD0?style=for-the-badge&logoColor=70264D" />
-</a>
-<a href="#our-services">
-  <img src="https://img.shields.io/badge/SERVICES-FBCFE8?style=for-the-badge&logoColor=70264D" />
-</a>
-<a href="#our-packages">
-  <img src="https://img.shields.io/badge/PRICING-F5D0FE?style=for-the-badge&logoColor=70264D" />
-</a>
+[![Made with HTML](https://img.shields.io/badge/HTML5-FFE4EC?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Styled with CSS](https://img.shields.io/badge/CSS3-FFE4EC?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FFE4EC?style=for-the-badge&logo=javascript&logoColor=B8860B)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-## 🌷 About Us
-
-<img src="https://img.shields.io/badge/LITTLE%20MOMENTS%20STUDIO-FFF0F5?style=for-the-badge&logoColor=9D174D" />
+## 🎀 A Little About Us
 
 </div>
 
-<div align="center">
+**Little Moments Studio** creates cute, personalized and interactive websites for the moments that matter most.
 
-<table>
-<tr>
-<td align="center" width="650">
+From birthday surprises to anniversary wishes, we turn your ideas into simple, beautiful web experiences that feel personal and special. ♡
 
-### 💗 Every Moment Has a Story
-
-Little Moments Studio creates **personalized, responsive websites** for life's sweetest occasions.
-
-From a heartfelt birthday message to a cute anniversary surprise, our goal is to make special moments feel even more memorable through simple designs and thoughtful details.
-
-✨ Small websites, created with care.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+Whether you want to surprise someone you love or give your special occasion a unique digital touch, let's make it memorable!
 
 ---
 
 <div align="center">
 
-## 🎀 Our Services
+## 🌷 What We Create
 
-<p>Little websites for the people and moments that matter most.</p>
+</div>
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/01-FCE7F3?style=for-the-badge&labelColor=FCE7F3" />
+<td width="50%" align="center">
 
 ### 🎂 Birthday Websites
 
-Personalized birthday greetings, cute themes and heartfelt messages.
+Personalized birthday wishes, lovely messages and little surprises.
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/02-FBCFE8?style=for-the-badge&labelColor=FBCFE8" />
+### 💗 Anniversary Websites
 
-### 💌 Anniversary Pages
-
-Romantic greetings and special messages for memorable occasions.
+Romantic pages to celebrate love, memories and special milestones.
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/03-F5D0FE?style=for-the-badge&labelColor=F5D0FE" />
+### 🎁 Surprise Websites
 
-### 🫶 Friendship Surprises
-
-Sweet digital surprises to celebrate meaningful friendships.
+Cute, personalized experiences for friends, partners and loved ones.
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/04-FCE4EC?style=for-the-badge&labelColor=FCE4EC" />
+### 🛍️ Small Business Pages
 
-### ✨ Personalized Designs
-
-Custom colors, messages, photo sections and simple interactive features.
+Simple landing pages to introduce your brand, showcase products and share contact details.
 
 </td>
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+## 💕 Our Starting Prices
+
 </div>
 
-<br/>
+| Package | What's Included | Starting Price |
+|---|---|---:|
+| 🌸 Basic Wish | A simple one-page greeting website | PKR 300 |
+| 🎀 Personalized | More sections, custom colors and your content | PKR 500 |
+| ✨ Interactive Surprise | Simple JavaScript interactions and basic animations | PKR 650 |
+| 🛍️ Business Landing Page | Business introduction, product showcase and contact buttons | PKR 800 |
+
+<sub>♡ Final pricing depends on the design, number of sections and requested features. Custom business pages may cost up to PKR 1,500. Advanced features, custom domains and additional requirements are quoted separately.</sub>
 
 ---
 
 <div align="center">
 
-## 🛠️ Our Tech Stack
+## 🩷 Our Tech Stack
 
-<p>Simple, reliable technologies for creating beautiful web experiences.</p>
+Tools we use to bring your ideas to life.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-Website%20Structure-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-Visual%20Design-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Interactive%20Features-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub-Project%20Hosting-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" alt="HTML, CSS, JavaScript, Git and GitHub" />
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-## 💝 Our Website Packages
+## 🌸 How It Works
 
-<p>Affordable starting prices for small, personalized websites.</p>
+</div>
 
 <table>
 <tr>
-<th align="center">Package</th>
-<th align="center">Starting Price</th>
-<th align="center">Includes</th>
-</tr>
-<tr>
-<td align="center">🌸 <b>Basic</b></td>
-<td align="center"><b>PKR 300</b></td>
-<td>One-page greeting website with personalized text and basic styling</td>
-</tr>
-<tr>
-<td align="center">🎀 <b>Standard</b></td>
-<td align="center"><b>PKR 450</b></td>
-<td>Small multi-section website with custom colors and photo section</td>
-</tr>
-<tr>
-<td align="center">✨ <b>Premium</b></td>
-<td align="center"><b>PKR 650</b></td>
-<td>Personalized design with simple JavaScript interactions, where suitable</td>
-</tr>
-<tr>
-<td align="center">💗 <b>Custom</b></td>
-<td align="center"><b>Up to PKR 800</b></td>
-<td>Small custom project based on agreed requirements and available features</td>
-</tr>
-</table>
+<td align="center" width="25%">
 
-<br/>
+**01**
 
-<img src="https://img.shields.io/badge/Every%20Project-Personalized%20With%20Care-DB7093?style=for-the-badge&labelColor=FCE4EC" />
+💌
 
-<p><sub>Prices are starting estimates. Final pricing and delivery time depend on the agreed scope. Custom domains, paid hosting and additional features may cost extra.</sub></p>
+**Share Your Idea**
 
-</div>
+Tell us about your occasion or business.
 
-<br/>
+</td>
+<td align="center" width="25%">
 
----
+**02**
 
-<div align="center">
+🎨
 
-## 🌸 Our Promise
+**Choose Your Style**
 
-<table>
-<tr>
-<td align="center" width="650">
+Share your preferred colors and references.
 
-### 💕 Simple. Personal. Meaningful.
+</td>
+<td align="center" width="25%">
 
-We believe a small website can carry a big emotion.
+**03**
 
-Our focus is on thoughtful messages, clean layouts, responsive design and little details that make each project feel personal.
+💻
 
-**Your moment. Your story. Your little website.** 🎀
+**We Build**
+
+Your website is created around the agreed requirements.
+
+</td>
+<td align="center" width="25%">
+
+**04**
+
+🎀
+
+**Go Live**
+
+Receive your website's live link.
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
+<div align="center">
+
+## ♡ A Few Things to Know
+
+🌷 We focus on simple, personalized and responsive websites.
+
+💗 Content, photos and design preferences can be discussed before work begins.
+
+🎀 Free GitHub Pages hosting may be used for eligible static websites.
+
+✨ Custom domains and advanced functionality are not included in the basic packages.
+
+</div>
 
 ---
 
 <div align="center">
 
-## 📩 Let's Create a Little Something Special
+## 💌 Let's Create Something Special
 
-Have an idea for a birthday website, anniversary greeting or friendship surprise?
+Have an idea for a birthday, anniversary, surprise or small business?
 
-Share your idea, preferred design and required features so we can discuss a suitable solution.
+Let's turn your idea into a little digital moment worth remembering. ♡
 
-<br/>
+**Little Moments Studio — Made with love, one website at a time.**
 
-<img src="https://img.shields.io/badge/Have%20an%20Idea%3F-Let's%20Talk-EC4899?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-### 💗 Little Moments Studio
-
-**Small Websites. Big Feelings. Endless Memories.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,EC8AB5,DDA0DD&height=220&section=footer&text=Made%20with%20Love&fontSize=32&fontColor=70264D&fontAlignY=45&desc=Every%20little%20moment%20matters%20%F0%9F%8C%B7&descSize=15&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF9EBB,100:F8BBD0&height=140&section=footer" width="100%" />
 
 </div>
