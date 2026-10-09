@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,EC8AB5,DDA0DD&height=240&section=header&text=Little%20Moments%20Studio&fontSize=38&fontColor=70264D&fontAlignY=38&desc=Small%20Websites%20%7C%20Big%20Feelings&descSize=17&descAlignY=58" width="100%" />
@@ -239,4 +238,3 @@ Share your idea, preferred design and required features so we can discuss a suit
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0,EC8AB5,DDA0DD&height=220&section=footer&text=Made%20with%20Love&fontSize=32&fontColor=70264D&fontAlignY=45&desc=Every%20little%20moment%20matters%20%F0%9F%8C%B7&descSize=15&descAlignY=65" width="100%" />
 
 </div>
-```
